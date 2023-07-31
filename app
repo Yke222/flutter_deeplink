@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
       {
-        "appID": "S8QB4VV633.com.example.deeplinkCookbook",
+        "appID": "Z5BUV2R3CR.com.bold.boldpay.hml",
         "paths": ["*"]
       }
     ]
